@@ -281,7 +281,7 @@ const Hero = () => {
                   Contact Me
                 </a>
                 <a 
-                  href="/resume.pdf" 
+                  href="/public/resume.pdf" 
                   className="px-6 py-3 border border-teal-400 text-teal-400 font-medium rounded hover:bg-teal-400/10 transition-colors"
                 >
                   Resume
